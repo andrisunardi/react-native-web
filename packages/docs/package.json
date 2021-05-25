@@ -11,7 +11,7 @@
     "@storybook/addon-docs": "^5.3.9",
     "@storybook/addon-options": "^5.3.9",
     "@storybook/cli": "^5.3.9",
-    "@storybook/react": "^5.3.9",
+    "@storybook/react": "^6.0.0",
     "@storybook/theming": "^5.3.9",
     "react-native-web": "0.12.2"
   },
